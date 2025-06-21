@@ -1,2 +1,6 @@
-# quick_reference
-Quick reference Python, Git, terminal, etc.
+# Quick reference
+
+Basics of Python, Git, terminal, etc.
+
+Main reference
+* Corey Schafer's Channel (https://www.youtube.com/@coreyms)
